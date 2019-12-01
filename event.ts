@@ -1,0 +1,14 @@
+export const EVENT_DRIVER_RIDER_SUCCESS = "driver_rider_success";
+export const EVENT_PICKUP_PASSENGER = "pickup_passenger";
+export const EVENT_ENTER_RIDE = "enter_rider";
+export const EVENT_HAIL_DRIVER = "hail_driver";
+export const EVENT_HAIL_DRIVER_2 = "hail_driver2";
+export const EVENT_INVALID_HAIL_DRIVER = "invalid_hail_driver"
+export const EVENT_CLOSE_DRIVER = "driver_is_close";
+export const EVENT_UPDATE_DRIVER_LOCATION = "update_service_location";
+export const EVENT_DRIVERS_NEAR_ME = "get_drivers_near_by";
+export const EVENT_WHOSE_CLOSE = "whose_close";
+export const EVENT_REGISTER_ME = "register_me";
+export const EVENT_CANCEL_RIDE_REQUEST = "cancel_ride_request";
+export const EVENT_DRIVER_ACCEPTED = "accepted_ride_request";
+export const EVENT_REGISTER_SERVICE_LOCATION = "register_service_location"
