@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "knex": "^0.19.4",
     "node-cache": "^5.0.2",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "validator": "^11.1.0"
   },
   "devDependencies": {
